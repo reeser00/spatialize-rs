@@ -26,15 +26,12 @@ impl Sized for Rectangle {
     fn north_edge(&self) -> f32 {
         self.position_y
     }
-
     fn east_edge(&self) -> f32 {
         self.position_x + self.width
     }
-
     fn south_edge(&self) -> f32 {
         self.position_y - self.height
     }
-
     fn west_edge(&self) -> f32 {
         self.position_x
     }

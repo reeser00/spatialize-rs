@@ -2,3 +2,12 @@
 name = "spatialize"
 version = "0.1.0"
 edition = "2021"
+authors = ["Marvin Neumann"]
+readme = "README.md"
+repository = "https://github.com/reeser00/spatialize"
+license = "MIT OR Apache-2.0"
+keywords = ["data-structures", "tree", "spatial"]
+categories = ["data-structures"]
+description = "spatialize is a collection of spatial data structures used for efficent spatial partitioning"
+
+

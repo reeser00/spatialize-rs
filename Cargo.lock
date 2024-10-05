@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "data-structures-rs"
+name = "spatialize"
 version = "0.1.0"
